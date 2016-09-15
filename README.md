@@ -3,7 +3,7 @@
 Table view Advance 
 
 
-
+![alt tag](https://github.com/iOS-Fundas/Advance-Tableview/blob/master/Simulator%20Screen%20Shot%20Sep%2015%2C%202016%2C%2010.50.32%20AM.png)
 
 
 
